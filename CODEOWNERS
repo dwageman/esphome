@@ -214,3 +214,4 @@ esphome/components/xiaomi_lywsd03mmc/* @ahpohl
 esphome/components/xiaomi_mhoc303/* @drug123
 esphome/components/xiaomi_mhoc401/* @vevsvevs
 esphome/components/xpt2046/* @numo68
+esphome/components/emporia_vue/* @Maelstrom96 @flaviut @krconv
